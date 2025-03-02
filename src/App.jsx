@@ -1,8 +1,8 @@
 import './App.css';
 import './index.css';
-import userData from "./data/userData.json";
-import friends from "./data/friends.json";
-import transactions from "./data/transactions.json";
+import userData from "./projeckdata/userData.json";
+import friends from "./projeckdata/friends.json";
+import transactions from "./projeckdata/transactions.json";
 import Profile from "./components/Profile/Profile";
 import FriendList from "./components/FriendList/FriendList";
 
